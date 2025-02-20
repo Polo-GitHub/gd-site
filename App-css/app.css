@@ -118,6 +118,7 @@ img{
     font-size: 16px;
     background-color: transparent;
     border: 2px solid var(--dark);
+    border-color: var(--dark);
 }
 .input-placeholder{
     position: absolute;
